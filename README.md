@@ -21,6 +21,7 @@ I'm a physicist and math enthusiast with a strong passion for creating things on
 - **C#** - Physics simulations, software architecture
 - **Python** - Data analysis, neural networks, API integration, scientific computing
 - **C++** - Object-oriented programming, performance-critical applications
+- (Py-)Qt, WPF, HTML, CSS, JavaScript, Linux
 
 ### **Core Competencies**
 - **Object-Oriented Programming (OOP)** - Polymorphism, inheritance, design patterns
