@@ -1,26 +1,26 @@
 # Hi, I'm Lukas 👋
 
-Welcome to my GitHub portfolio! I'm a passionate developer and physics enthusiast applying for a position at **DMG Mori in Pfronten, Germany**. This repository showcases my technical projects, skills, and expertise.
+Welcome to my GitHub portfolio! Here, I want to showcases my projects, skills and expertise. My ultimate goal is working as a software developer at **DMG Mori in Pfronten, Germany**.
 
 ---
 
 ## 🎯 About Me
 
-I'm a software developer with a strong background in physics and mathematics, combining analytical thinking with practical programming skills. I excel at solving complex problems through clean code architecture, numerical simulations, and data analysis. My passion for both software engineering and scientific computing drives me to create efficient, well-documented solutions.
+I'm a physicist and math enthusiast with a strong passion for creating things on my computer. Together with my never ending will for learning complex technical stuff. My biggest strength is solving complex problems through logical thinkin and analytical approaches. My passion for both software engineering and physics drives me to create efficient, well-documented solutions.
 
-- 📍 Location: Germany
+- 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at DMG Mori
 - 🎓 Background: Physics & Computer Science
-- 🔍 Focus Areas: OOP, Machine Learning, Physics Simulations, API Integration
+- 🔍 Focus Areas: OOP, GUI's, Machine Learning, Physics Simulations, API Integration
 
 ---
 
 ## 💻 Technical Skills
 
 ### **Programming Languages**
+- **C#** - Physics simulations, software architecture
 - **Python** - Data analysis, neural networks, API integration, scientific computing
 - **C++** - Object-oriented programming, performance-critical applications
-- **C#** - Physics simulations, software architecture
 
 ### **Core Competencies**
 - **Object-Oriented Programming (OOP)** - Polymorphism, inheritance, design patterns
@@ -50,17 +50,7 @@ Building a neural network from scratch using only Python and basic mathematics t
 
 ---
 
-### 2. **Device Manager - OOP Polymorphism Study** 🔧
-**Repository:** [device-manager](https://github.com/luniphys/device-manager)  
-**Language:** C++ | **License:** MIT
-
-A sophisticated OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development.
-
-**Key Skills:** C++, Polymorphism, Design Patterns, OOP Architecture
-
----
-
-### 3. **Double Pendulum Chaotic System Simulation** 🌀
+### 2. **Double Pendulum Chaotic System Simulation** 🌀
 **Repository:** [double-pendulum](https://github.com/luniphys/double-pendulum)  
 **Language:** C# | **License:** MIT
 
@@ -70,7 +60,7 @@ A dynamic simulation demonstrating chaotic behavior in mechanical systems. This 
 
 ---
 
-### 4. **TrackMania Medal Analyzer** 🏁
+### 3. **TrackMania Medal Analyzer** 🏁
 **Repository:** [trackmania-medals](https://github.com/luniphys/trackmania-medals)  
 **Language:** Python | **License:** MIT
 
@@ -80,7 +70,9 @@ A practical tool that connects to the Nadeo API to identify "Track of the Day" m
 
 ---
 
-### 5. **Task Manager Application** 📋
+### Smaller (educational) projects
+
+#### 4. **Task Manager Application** 📋
 **Repository:** [taskmanager](https://github.com/luniphys/taskmanager)  
 **Language:** C++ | **License:** MIT
 
@@ -90,13 +82,23 @@ A command-line task management application built with C++ to deepen OOP fundamen
 
 ---
 
-### 6. **Ray Transfer Matrix Analysis** 🔬
+#### 5. **Ray Transfer Matrix Analysis** 🔬
 **Repository:** [ray-transfer-matrix-analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)  
 **Language:** Python | **License:** MIT
 
 An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices. Combines theoretical physics with computational methods for practical optical system analysis.
 
 **Key Skills:** Physics, Optical Systems, Mathematical Modeling, Scientific Computing
+
+---
+
+#### 6. **Device Manager - OOP Polymorphism Study** 🔧
+**Repository:** [device-manager](https://github.com/luniphys/device-manager)  
+**Language:** C++ | **License:** MIT
+
+A sophisticated OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development.
+
+**Key Skills:** C++, Polymorphism, Design Patterns, OOP Architecture
 
 ---
 
@@ -123,7 +125,7 @@ aligns perfectly with the technical challenges in advanced manufacturing technol
 
 ---
 
-## 📞 Get in Touch
+## 📧 Get in Touch
 
 - **GitHub:** [@luniphys](https://github.com/luniphys)
 - **Email:** luniphy@gmail.com
@@ -133,8 +135,4 @@ aligns perfectly with the technical challenges in advanced manufacturing technol
 
 ## 📄 License
 
-Most of my projects are licensed under the MIT License. Feel free to explore, learn, and build upon my work!
-
----
-
-**Last Updated:** 2026-05-02 11:28:01 | Crafted with ❤️ for technical excellence
+All of my projects are licensed under the MIT License. Feel free to explore, learn, and build upon my work!
