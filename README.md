@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! Here, I want to present to you my projects, skil
 
 ## 🎯 About Me
 
-I'm a physicist (BSc) and math enthusiast with a strong passion for creating things on my computer. I'm 28 years old and an original 'Allgäuer'. My biggest strength is solving complex problems through logical and analytical approaches. I have a never ending will for learning new things in tech and science and this passion, I can live out best when engineering own software.
+I'm a physicist (BSc) and math enthusiast with a strong passion for creating things on my computer. I'm 28 years old and an original 'Allgäuer'. My biggest strength is solving complex problems through logical and analytical approaches. I have a never ending will for learning new things in tech and science and this passion, I can live out best when engineering my own software.
 
 - 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at DMG Mori
@@ -20,28 +20,28 @@ I'm a physicist (BSc) and math enthusiast with a strong passion for creating thi
 ### **Programming Languages**
 - Backend: **C#**, **Python**, **C++**
 - Frontend: **WPF, (Py)Qt**, **HTML**, **CSS**, **JavaScript**
-- Other: **SQL**, **Linux**, **Git**, **CI**, **Visual Studio**, **.NET''
-  
-### **Core Competencies**
-- **Object-Oriented Programming (OOP)** - Polymorphism, inheritance, design patterns
-- **Machine Learning** - Neural networks, data processing, MNIST implementation
-- **Physics Simulations** - Numerical methods, chaotic systems, optical analysis
-- **API Integration** - RESTful API interaction, data fetching and processing
-- **Software Architecture** - Clean code, modularity, scalability
-- **Problem Solving** - Mathematical modeling, algorithm optimization
 
 ### **Tools & Technologies**
 - Git & GitHub (Version control)
+- CI automation
+- SQL databases
+- .NET Framework & C# ecosystem incl. Visual Studio
 - Python libraries: NumPy, Pandas, Matplotlib
-- .NET Framework & C# ecosystem
-- Linux/Windows development environments
+- Linux/Windows environments
+  
+### **Core Competencies**
+- **Object-Oriented Programming (OOP)** - Polymorphism, (diamond) inheritance, casting, access modification
+- **Data Science** - Data management, data analysis
+- **Machine Learning** - Neural networks, data processing
+- **API Integration** - RESTful API interaction, data fetching and processing
+- **Software Architecture** - Clean code, professionality, modularity, scalability
+- **Problem Solving** - Mathematical modeling, Numerical methods, algorithm optimization
 
 ---
 
 ## 📚 Featured Projects
 
-### 1. **Neural Network for MNIST Digit Recognition** 🧠
-**Repository:** [number-neuralnetwork](https://github.com/luniphys/number-neuralnetwork)  
+### 1. **[Neural Network for MNIST Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** 🧠
 **Language:** Python | **License:** MIT
 
 Building a neural network from scratch using only Python and basic mathematics to classify handwritten digits. This project demonstrates deep understanding of machine learning fundamentals without relying on heavy frameworks—pure algorithmic implementation.
@@ -50,8 +50,7 @@ Building a neural network from scratch using only Python and basic mathematics t
 
 ---
 
-### 2. **Double Pendulum Chaotic System Simulation** 🌀
-**Repository:** [double-pendulum](https://github.com/luniphys/double-pendulum)  
+### 2. **[Double Pendulum Chaotic System Simulation](https://github.com/luniphys/double-pendulum)** 🌀
 **Language:** C# | **License:** MIT
 
 A dynamic simulation demonstrating chaotic behavior in mechanical systems. This project combines physics theory with practical programming to visualize complex dynamical systems, showcasing the intersection of scientific computing and software development.
@@ -60,8 +59,7 @@ A dynamic simulation demonstrating chaotic behavior in mechanical systems. This 
 
 ---
 
-### 3. **TrackMania Medal Analyzer** 🏁
-**Repository:** [trackmania-medals](https://github.com/luniphys/trackmania-medals)  
+### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** 🏁
 **Language:** Python | **License:** MIT
 
 A practical tool that connects to the Nadeo API to identify "Track of the Day" maps where Gold medals are missing. This project demonstrates real-world API integration, data processing, and practical problem-solving.
@@ -70,10 +68,7 @@ A practical tool that connects to the Nadeo API to identify "Track of the Day" m
 
 ---
 
-### Smaller (educational) projects
-
-#### 4. **Task Manager Application** 📋
-**Repository:** [taskmanager](https://github.com/luniphys/taskmanager)  
+### 4. **[Task Manager Application](https://github.com/luniphys/taskmanager)** 📋
 **Language:** C++ | **License:** MIT
 
 A command-line task management application built with C++ to deepen OOP fundamentals. Clean architecture and intuitive interface demonstrate professional software development practices.
@@ -82,23 +77,17 @@ A command-line task management application built with C++ to deepen OOP fundamen
 
 ---
 
-#### 5. **Ray Transfer Matrix Analysis** 🔬
-**Repository:** [ray-transfer-matrix-analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)  
-**Language:** Python | **License:** MIT
+### Smaller (educational) projects
+
+#### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** (**Python**) 🔬
 
 An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices. Combines theoretical physics with computational methods for practical optical system analysis.
 
-**Key Skills:** Physics, Optical Systems, Mathematical Modeling, Scientific Computing
-
 ---
 
-#### 6. **Device Manager - OOP Polymorphism Study** 🔧
-**Repository:** [device-manager](https://github.com/luniphys/device-manager)  
-**Language:** C++ | **License:** MIT
+#### **[Device Manager](https://github.com/luniphys/device-manager)** (**C++**) 🔧
 
 A sophisticated OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development.
-
-**Key Skills:** C++, Polymorphism, Design Patterns, OOP Architecture
 
 ---
 
