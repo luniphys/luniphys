@@ -1,28 +1,27 @@
 # Hi, I'm Lukas 👋
 
-Welcome to my GitHub portfolio! Here, I want to showcases my projects, skills and expertise. My ultimate goal is working as a software developer at **DMG Mori in Pfronten, Germany**.
+Welcome to my GitHub portfolio! Here, I want to present to you my projects, skills and general know-how. My ultimate dream goal is working as a software developer at **DMG Mori**.
 
 ---
 
 ## 🎯 About Me
 
-I'm a physicist and math enthusiast with a strong passion for creating things on my computer. Together with my never ending will for learning complex technical stuff. My biggest strength is solving complex problems through logical thinkin and analytical approaches. My passion for both software engineering and physics drives me to create efficient, well-documented solutions.
+I'm a physicist (BSc) and math enthusiast with a strong passion for creating things on my computer. I'm 28 years old and an original 'Allgäuer'. My biggest strength is solving complex problems through logical and analytical approaches. I have a never ending will for learning new things in tech and science and this passion, I can live out best when engineering own software.
 
 - 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at DMG Mori
 - 🎓 Background: Physics & Computer Science
-- 🔍 Focus Areas: OOP, GUI's, Machine Learning, Physics Simulations, API Integration
+- 🔍 Focus Areas: OOP, GUI, Machine Learning, Data Management, Web design, Physics Simulations, API Integration
 
 ---
 
 ## 💻 Technical Skills
 
 ### **Programming Languages**
-- **C#** - Physics simulations, software architecture
-- **Python** - Data analysis, neural networks, API integration, scientific computing
-- **C++** - Object-oriented programming, performance-critical applications
-- (Py-)Qt, WPF, HTML, CSS, JavaScript, Linux
-
+- Backend: **C#**, **Python**, **C++**
+- Frontend: **WPF, (Py)Qt**, **HTML**, **CSS**, **JavaScript**
+- Other: **SQL**, **Linux**, **Git**, **CI**, **Visual Studio**, **.NET''
+  
 ### **Core Competencies**
 - **Object-Oriented Programming (OOP)** - Polymorphism, inheritance, design patterns
 - **Machine Learning** - Neural networks, data processing, MNIST implementation
