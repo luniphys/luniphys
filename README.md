@@ -82,6 +82,7 @@ An academic project completed during the Digital Science Minor, analyzing optica
 
 A sophisticated OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development.
 
+---
 
 ## 🎯 Why DMG Mori?
 
