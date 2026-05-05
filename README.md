@@ -1,6 +1,6 @@
 # Hi, I'm Lukas 👋
 
-Welcome to my GitHub portfolio! Here, I want to present to you my projects, skills and general know-how. My ultimate dream goal is working as a software developer at **DMG Mori**.
+Welcome to my GitHub portfolio! Here, I want to present to you my projects, skills and general know-how. This whole portfolio was designed and made to achieve my ultimate dream goal: Working as a software developer at **DMG Mori**.
 
 ---
 
