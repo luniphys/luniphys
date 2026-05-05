@@ -6,12 +6,11 @@ Welcome to my GitHub portfolio! Here, I want to present to you my projects, skil
 
 ## 🎯 About Me
 
-I'm a physicist (BSc) and math enthusiast with a strong passion for creating things on my computer. I'm 28 years old and an original 'Allgäuer'. My biggest strength is solving complex problems through logical and analytical approaches. I have a never ending will for learning new things in tech and science and this passion, I can live out best when engineering my own software.
+I'm a physicist (BSc) and math enthusiast with a strong passion for creating things on my computer. I'm 28 years old and an original 'Allgäuer'. My biggest strength is solving complex problems through logical and analytical approaches. I have a never ending will for learning new things in tech and science and this passion, I can live out best when engineering software.
 
 - 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at DMG Mori
 - 🎓 Background: Physics & Computer Science
-- 🔍 Focus Areas: OOP, GUI, Machine Learning, Data Management, Web design, Physics Simulations, API Integration
 
 ---
 
@@ -19,7 +18,7 @@ I'm a physicist (BSc) and math enthusiast with a strong passion for creating thi
 
 ### **Programming Languages**
 - Backend: **C#**, **Python**, **C++**
-- Frontend: **WPF, (Py)Qt**, **HTML**, **CSS**, **JavaScript**
+- Frontend: **WPF**, **(Py)Qt**, **HTML**, **CSS**, **JavaScript**
 
 ### **Tools & Technologies**
 - Git & GitHub (Version control)
@@ -30,41 +29,43 @@ I'm a physicist (BSc) and math enthusiast with a strong passion for creating thi
 - Linux/Windows environments
   
 ### **Core Competencies**
-- **Object-Oriented Programming (OOP)** - Polymorphism, (diamond) inheritance, casting, access modification
-- **Data Science** - Data management, data analysis
-- **Machine Learning** - Neural networks, data processing
-- **API Integration** - RESTful API interaction, data fetching and processing
-- **Software Architecture** - Clean code, professionality, modularity, scalability
-- **Problem Solving** - Mathematical modeling, Numerical methods, algorithm optimization
+- **Object-Oriented Programming (OOP)** - Polymorphism, (Diamond-) Inheritance, (Up- & Down-) Casting, Access modification
+- **Data Management** - Relational & Document databases, Web scraping, API, RegEx
+- **Data analysis** - Multivariate & cluster analysis, PCA, Independence tests, Linear models, Generalized linear models
+- **Machine Learning** - Neural networks, Linear regression, Parametric methods (LASSO), Non-parametric methods (CART), Forward propagation + backpropagation
+- **API Integration** - RESTful API interaction, Data fetching and processing
+- **Testing & Debugging** - Unit testing, Effective debugging
+- **Software Architecture** - Clean code, Comprehensive documentation, Professional repository structure, Modularity, Scalability
+- **Problem Solving** - Mathematical/Systemic modeling, Analytic approach, Numerical methods, Algorithm optimization
 
 ---
 
-## 📚 Featured Projects
+## 📚 Featured Projects (From comprehensive to concise)
 
 ### 1. **[Neural Network for MNIST Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** 🧠
 **Language:** Python | **License:** MIT
 
-Building a neural network from scratch using only Python and basic mathematics to classify handwritten digits. This project demonstrates deep understanding of machine learning fundamentals without relying on heavy frameworks—pure algorithmic implementation.
+Building a neural network from scratch using only mathematics and Python basic functionality to classify handwritten digits. This project demonstrates GUI understanding and machine learning fundamentals without relying on heavy frameworks—pure implementation.
 
-**Key Skills:** Machine Learning, Numerical Methods, Data Processing, Algorithm Design
+**Key Skills:** Machine Learning, Data Processing, Algorithm Design, GUI
 
 ---
 
-### 2. **[Double Pendulum Chaotic System Simulation](https://github.com/luniphys/double-pendulum)** 🌀
+### 2. **[Double Pendulum Simulation](https://github.com/luniphys/double-pendulum)** 🌀
 **Language:** C# | **License:** MIT
 
-A dynamic simulation demonstrating chaotic behavior in mechanical systems. This project combines physics theory with practical programming to visualize complex dynamical systems, showcasing the intersection of scientific computing and software development.
+A dynamic simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics theory with practical programming and shows professional repository maintenance following industry standards.
 
-**Key Skills:** Physics Simulations, C#, Numerical Integration, Visualization
+**Key Skills:** Physics Simulations, Numerical Integration, Visualization, Repo Maintenance
 
 ---
 
 ### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** 🏁
 **Language:** Python | **License:** MIT
 
-A practical tool that connects to the Nadeo API to identify "Track of the Day" maps where Gold medals are missing. This project demonstrates real-world API integration, data processing, and practical problem-solving.
+A practical tool communicating to the Nadeo (Trackmania publisher) API to identify certain "Tracks" where Gold medals are missing. This project demonstrates real-world API integration, data processing, and practical problem-solving.
 
-**Key Skills:** API Integration, Python, Data Analysis, RESTful APIs
+**Key Skills:** API Integration, Data Analysis, RESTful APIs
 
 ---
 
@@ -99,11 +100,10 @@ aligns perfectly with the technical challenges in advanced manufacturing technol
 
 ## 🌟 Highlights
 
-✅ **Strong Foundation in Fundamentals** - From neural networks to OOP design patterns  
-✅ **Physics & Engineering Background** - Unique combination with software development  
-✅ **Professional Code Quality** - Clean architecture, documentation, and best practices  
-✅ **Diverse Project Portfolio** - Spanning ML, simulations, systems programming, and tools  
-✅ **Collaborative & Learning-Focused** - MIT-licensed projects, clear documentation  
+✅ **Strong Foundation in Fundamentals** - From neural networks to OOP design patterns
+✅ **Physics & Mathematics Background** - Unique combination with software development
+✅ **Professional Code Quality** - Clean architecture, documentation, and best practices
+✅ **Diverse Project Portfolio** - Spanning ML, simulations, systems programming, and tools
 
 ---
 
@@ -111,10 +111,10 @@ aligns perfectly with the technical challenges in advanced manufacturing technol
 
 - **GitHub:** [@luniphys](https://github.com/luniphys)
 - **Email:** luniphy@gmail.com
-- **Open to:** Full-time positions, exciting projects, collaboration opportunities
+- **Open to:** Full-time positions, collaboration opportunities, exciting projects
 
 ---
 
 ## 📄 License
 
-All of my projects are licensed under the MIT License. Feel free to explore, learn, and build upon my work!
+All of my projects are under the MIT License. Feel free to whatever you want with it! 🙂
