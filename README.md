@@ -68,16 +68,11 @@ A practical tool that connects to the Nadeo API to identify "Track of the Day" m
 
 ---
 
-### 4. **[Task Manager Application](https://github.com/luniphys/taskmanager)** 📋
-**Language:** C++ | **License:** MIT
+### Smaller (educational) projects
+
+#### **[Task Manager Application](https://github.com/luniphys/taskmanager)** (**C++**) 📋
 
 A command-line task management application built with C++ to deepen OOP fundamentals. Clean architecture and intuitive interface demonstrate professional software development practices.
-
-**Key Skills:** C++, OOP, Application Architecture, User Interaction
-
----
-
-### Smaller (educational) projects
 
 #### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** (**Python**) 🔬
 
