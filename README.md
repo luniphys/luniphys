@@ -83,13 +83,10 @@ A command-line task management application built with C++ to deepen OOP fundamen
 
 An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices. Combines theoretical physics with computational methods for practical optical system analysis.
 
----
-
 #### **[Device Manager](https://github.com/luniphys/device-manager)** (**C++**) 🔧
 
 A sophisticated OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development.
 
----
 
 ## 🎯 Why DMG Mori?
 
