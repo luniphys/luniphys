@@ -31,7 +31,7 @@ I'm a physicist (BSc) and math enthusiast with a strong passion for creating thi
 ### **Core Competencies**
 - **Object-Oriented Programming (OOP)** - Polymorphism, (Diamond-) Inheritance, (Up- & Down-) Casting, Access modification
 - **Data Management** - Relational & Document databases, Web scraping, API, RegEx
-- **Data analysis** - Multivariate & cluster analysis, PCA, Independence tests, Linear models, Generalized linear models
+- **Data Analysis** - Multivariate & cluster analysis, PCA, Independence tests, Linear models, Generalized linear models
 - **Machine Learning** - Neural networks, Linear regression, Parametric methods (LASSO), Non-parametric methods (CART), Forward propagation + backpropagation
 - **API Integration** - RESTful API interaction, Data fetching and processing
 - **Testing & Debugging** - Unit testing, Effective debugging
