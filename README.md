@@ -117,4 +117,4 @@ aligns perfectly with the technical challenges in advanced manufacturing technol
 
 ## 📄 License
 
-All of my projects are under the MIT License. Feel free to whatever you want with it! 🙂
+All of my projects are under the MIT License. Feel free to do whatever you want with it! 🙂
