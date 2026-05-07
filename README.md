@@ -12,9 +12,7 @@ I'm a physicist (BSc) and math enthusiast with a strong interest in software eng
 
 Through my Physics degree, I developed a solid understanding of complex systems, mathematical modeling, and numerical methods. In addition, my coursework in numerical mathematics, machine learning, data analysis, and data management strengthened my skills in algorithmic thinking and structured software development.
 
-My main strength is approaching complex problems analytically and turning abstract concepts into functional software solutions. I have a strong drive to continuously learn new things in technology and science, and software engineering is the field where I most enjoy applying this curiosity.
-
-
+My main strength is approaching complex problems analytically and turning abstract concepts into functional software solutions. I have a strong drive to continuously learn new things in technology and science, and software engineering is the field where I most enjoy applying this curiosity. <br/><br/>
 
 - 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at **DMG MORI**
