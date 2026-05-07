@@ -1,16 +1,22 @@
 # Hi, I'm Lukas 👋
 
-Welcome to my GitHub portfolio! Here, I want to present to you my projects, skills and general know-how. This whole portfolio was designed and made to achieve my ultimate dream goal: Working as a software developer at **DMG Mori**.
+Welcome to my GitHub portfolio! Here, I showcase my projects, technical skills, and areas of interest in software engineering, physics, and data-driven development.
+
+My long-term goal is to contribute as a software developer at **DMG MORI**.
 
 ---
 
 ## 🎯 About Me
 
-I'm a physicist (BSc) and math enthusiast with a strong passion for creating things on my computer. I'm 28 years old and an original 'Allgäuer'. My biggest strength is solving complex problems through logical and analytical approaches. I have a never ending will for learning new things in tech and science and this passion, I can live out best when engineering software.
+I'm a physicist (BSc) and math enthusiast with a strong interest in software engineering and data-driven problem solving. I'm 28 years old and an original 'Allgäuer'. I enjoy building technical projects that combine analytical thinking with practical implementation.
+
+Through my Physics degree, I developed a solid understanding of complex systems, mathematical modeling, and numerical methods. In addition, my coursework in numerical mathematics, machine learning, data analysis, and data management strengthened my skills in algorithmic thinking and structured software development.
+
+My main strength is approaching complex problems analytically and turning abstract concepts into functional software solutions. I have a strong drive to continuously learn new things in technology and science, and software engineering is the field where I most enjoy applying this curiosity.
 
 - 📍 Location: Allgäu, Germany
-- 💼 Target Role: Software Developer at DMG Mori
-- 🎓 Background: Physics & Computer Science
+- 💼 Target Role: Software Developer at **DMG MORI**
+- 🎓 Background: Physics, Numerical Methods & Software Development
 
 ---
 
@@ -29,89 +35,74 @@ I'm a physicist (BSc) and math enthusiast with a strong passion for creating thi
 - Linux/Windows environments
   
 ### **Core Competencies**
-- **Object-Oriented Programming (OOP)** - Polymorphism, (Diamond-) Inheritance, (Up- & Down-) Casting, Access modification
-- **Data Management** - Relational & Document databases, Web scraping, API, RegEx
-- **Data Analysis** - Multivariate & cluster analysis, PCA, Independence tests, Linear models, Generalized linear models
-- **Machine Learning** - Neural networks, Linear regression, Parametric methods (LASSO), Non-parametric methods (CART), Forward propagation + backpropagation
-- **API Integration** - RESTful API interaction, Data fetching and processing
-- **Testing & Debugging** - Unit testing, Effective debugging
-- **Software Architecture** - Clean code, Comprehensive documentation, Professional repository structure, Modularity, Scalability
-- **Problem Solving** - Mathematical/Systemic modeling, Analytic approach, Numerical methods, Algorithm optimization
+✅ Object-Oriented Programming and software design
+✅ Numerical methods and mathematical modeling
+✅ Data management, data analysis and machine learning fundamentals
+✅ API integration and data processing
+✅ Unit testing and effective debugging
+✅ Clean code and modular software architecture
+✅ Debugging, testing, and problem solving
+✅ Scientific and technical computing
 
 ---
 
 ## 📚 Featured Projects (From comprehensive to concise)
 
-### 1. **[Neural Network for MNIST Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** 🧠
-**Language:** Python | **License:** MIT
+### 1. **[Neural Network for MNIST Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)** 🧠
 
-Building a neural network from scratch using only mathematics and Python basic functionality to classify handwritten digits. This project demonstrates GUI understanding and machine learning fundamentals without relying on heavy frameworks—pure implementation.
+Building a neural network from scratch using only Python and mathematical fundamentals to classify handwritten digits. The project focuses on understanding the underlying logic of neural networks instead of relying on external ML frameworks.
 
 **Key Skills:** Machine Learning, Data Processing, Algorithm Design, GUI
 
 ---
 
-### 2. **[Double Pendulum Simulation](https://github.com/luniphys/double-pendulum)** 🌀
-**Language:** C# | **License:** MIT
+### 2. **[Double Pendulum Simulation](https://github.com/luniphys/double-pendulum)** **(C#)** 🌀
 
-A dynamic simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics theory with practical programming and shows professional repository maintenance following industry standards.
+A simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics, numerical integration, and visualization while following a clean and maintainable repository structure.
 
 **Key Skills:** Physics Simulations, Numerical Integration, Visualization, Repo Maintenance
 
 ---
 
-### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** 🏁
-**Language:** Python | **License:** MIT
+### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** **(Python)** 🏁
 
-A practical tool communicating to the Nadeo (Trackmania publisher) API to identify certain "Tracks" where Gold medals are missing. This project demonstrates real-world API integration, data processing, and practical problem-solving.
+A practical tool using the Nadeo API to analyze TrackMania medal progress and identify missing Gold medals across certain racing tracks. This project demonstrates API integration, automated data processing, and practical problem solving.
 
-**Key Skills:** API Integration, Data Analysis, RESTful APIs
+**Key Skills:** API Integration, Data management, RESTful APIs
 
 ---
 
 ### Smaller (educational) projects
 
-#### **[Task Manager Application](https://github.com/luniphys/taskmanager)** (**C++**) 📋
+#### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)** 📋
 
-A command-line task management application built with C++ to deepen OOP fundamentals. Clean architecture and intuitive interface demonstrate professional software development practices.
+A command-line task management application to deepen C++ OOP fundamentals. Clean architecture and intuitive interface demonstrate professional software development practices.
 
-#### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** (**Python**) 🔬
+#### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** **(Python)** 🔬
 
 An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices. Combines theoretical physics with computational methods for practical optical system analysis.
 
-#### **[Device Manager](https://github.com/luniphys/device-manager)** (**C++**) 🔧
+#### **[Device Manager](https://github.com/luniphys/device-manager)** **(C++)** 🔧
 
-A sophisticated OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development.
-
----
-
-## 🎯 Why DMG Mori?
-
-I'm drawn to DMG Mori because of your commitment to precision engineering and innovative manufacturing solutions. My background in:
-
-- **Numerical simulations** and physics-based modeling
-- **Clean, scalable C++ architecture** for performance-critical systems
-- **Problem-solving** through mathematical and computational methods
-- **API integration** and data processing for industrial applications
-
-aligns perfectly with the technical challenges in advanced manufacturing technology.
+An OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development in C++.
 
 ---
 
-## 🌟 Highlights
+## 🎯 Why DMG MORI?
 
-✅ **Strong Foundation in Fundamentals** - From neural networks to OOP design patterns
-✅ **Physics & Mathematics Background** - Unique combination with software development
-✅ **Professional Code Quality** - Clean architecture, documentation, and best practices
-✅ **Diverse Project Portfolio** - Spanning ML, simulations, systems programming, and tools
+**DMG MORI** particularly interests me because the company combines advanced software development with highly sophisticated industrial systems. I am especially motivated by software that directly contributes to precision manufacturing, automation, and data-driven optimization in real-world environments.
+
+With my background in physics, numerical methods, and software development, I am particularly interested in applications involving intelligent machine systems, industrial digitalization, simulation, and process optimization.
+
+I enjoy working on technically challenging problems where analytical thinking, mathematical understanding and practical software engineering come together. As an Allgäuer, I believe there is no better local environment than **DMG MORI** to pursue this kind of work.
 
 ---
 
 ## 📧 Get in Touch
 
-- **GitHub:** [@luniphys](https://github.com/luniphys)
 - **Email:** luniphy@gmail.com
-- **Open to:** Full-time positions, collaboration opportunities, exciting projects
+- **GitHub:** [@luniphys](https://github.com/luniphys)
+- **Open to:** Full-time software engineering opportunities and technical projects
 
 ---
 
