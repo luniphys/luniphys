@@ -1,6 +1,6 @@
 # Hi, I'm Lukas 👋
 
-Welcome to my GitHub portfolio! Here, I showcase my projects, technical skills, and areas of interest in software engineering, physics, and data-driven development.
+Welcome to my GitHub portfolio! Here, I showcase my projects, technical skills, and areas of interest in software engineering and physics.
 
 My long-term goal is to contribute as a software developer at **DMG MORI**.
 
@@ -8,11 +8,13 @@ My long-term goal is to contribute as a software developer at **DMG MORI**.
 
 ## 🎯 About Me
 
-I'm a physicist (BSc) and math enthusiast with a strong interest in software engineering and data-driven problem solving. I'm 28 years old and an original 'Allgäuer'. I enjoy building technical projects that combine analytical thinking with practical implementation.
+I'm a physicist (BSc) and math enthusiast with a strong interest in software engineering and data-driven problem solving. I'm 28 years old and an original "Allgäuer". I enjoy building technical projects that combine analytical thinking with practical implementation.
 
 Through my Physics degree, I developed a solid understanding of complex systems, mathematical modeling, and numerical methods. In addition, my coursework in numerical mathematics, machine learning, data analysis, and data management strengthened my skills in algorithmic thinking and structured software development.
 
 My main strength is approaching complex problems analytically and turning abstract concepts into functional software solutions. I have a strong drive to continuously learn new things in technology and science, and software engineering is the field where I most enjoy applying this curiosity.
+
+
 
 - 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at **DMG MORI**
@@ -35,14 +37,14 @@ My main strength is approaching complex problems analytically and turning abstra
 - Linux/Windows environments
   
 ### **Core Competencies**
-✅ Object-Oriented Programming and software design
-✅ Numerical methods and mathematical modeling
-✅ Data management, data analysis and machine learning fundamentals
-✅ API integration and data processing
-✅ Unit testing and effective debugging
-✅ Clean code and modular software architecture
-✅ Debugging, testing, and problem solving
-✅ Scientific and technical computing
+- Object-Oriented Programming and software design
+- Numerical methods and mathematical modeling
+- Data management, data analysis and machine learning fundamentals
+- API integration and data processing
+- Unit testing and effective debugging
+- Clean code and modular software architecture
+- Debugging, testing, and problem solving
+- Scientific and technical computing
 
 ---
 
