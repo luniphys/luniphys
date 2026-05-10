@@ -78,7 +78,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 A command-line task management application to deepen C++ OOP fundamentals. Clean architecture and intuitive interface demonstrate professional software development practices.
 
-#### **[Weather Station Database](https://github.com/luniphys/climate-database)** ⛅
+#### **[Weather Station Database](https://github.com/luniphys/climate-database)** **(Python)** ⛅
 
 Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across austria. Parsing station metadata and observation records from XML API and storing/querying the processed data in a SQLite database.
 
