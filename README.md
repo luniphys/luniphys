@@ -16,7 +16,7 @@ My main strength is approaching complex problems analytically and turning abstra
 
 - 📍 Location: Allgäu, Germany
 - 💼 Target Role: Software Developer at **DMG MORI**
-- 🎓 Background: Physics, Numerical Methods & Software Development
+- 🎓 Background: Physics, Data Science & Software Development
 
 ---
 
@@ -74,7 +74,7 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 ### Smaller (educational) projects
 
-#### **[Flex-time Calculator](https://github.com/luniphys/end-of-work-time)** **(C#)** 👷🏻‍♂️ **(WORK IN PROGRESS)**
+#### **[Flex-time Calculator](https://github.com/luniphys/end-of-work-time)** **(C#)** 👷🏻‍♂️ **[WORK IN PROGRESS]**
 
 A simple worktime tracking app where employees enter their daily clock-in and clock-out times, and the app automatically calculates when they can leave work on Friday based on their weekly target hours.
 
