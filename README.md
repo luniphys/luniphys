@@ -66,7 +66,7 @@ Building a neural network from scratch using only Python and mathematical fundam
 [![CI](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/double-pendulum/actions/workflows/ci.yml)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![WPF](https://img.shields.io/badge/WPF-0c6fb3)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/)
+[![WPF](https://img.shields.io/badge/WPF-512BD4)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A simulation of a double pendulum demonstrating chaotic behavior in mechanical systems. This project combines physics, numerical integration, and visualization while following a clean and maintainable repository structure.
@@ -90,6 +90,11 @@ A practical tool using the Nadeo API to analyze TrackMania medal progress and id
 
 #### **[Flextime Calculator App](https://github.com/luniphys/flextime-calculator)** **(C#)** 👷🏻‍♂️ **[WORK IN PROGRESS]**
 
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![MAUI](https://img.shields.io/badge/MAUI-512BD4)](https://dotnet.microsoft.com/en-us/apps/maui)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A simple worktime tracking app where employees enter their daily clock-in and clock-out times, and the app automatically calculates when they can leave work on Friday based on their weekly target hours.
 
 #### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)** 📋
@@ -98,6 +103,9 @@ A command-line task management application to deepen C++ OOP fundamentals. Clean
 
 #### **[Weather Station Database](https://github.com/luniphys/climate-database)** **(Python)** ⛅
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across austria. Parsing station metadata and observation records from XML API and storing/querying the processed data in a SQLite database.
 
 #### **[Device Manager](https://github.com/luniphys/device-manager)** **(C++)** 🔧
@@ -105,6 +113,9 @@ Academic group project from the Digital Science minor about retrieving, processi
 An OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development in C++.
 
 #### **[Ray Transfer Matrix Analysis](https://github.com/luniphys/ray-transfer-matrix-analysis)** **(Python)** 🔬
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An academic project completed during the Digital Science Minor, analyzing optical systems using ray transfer matrices. Combines theoretical physics with computational methods for practical optical system analysis.
 
