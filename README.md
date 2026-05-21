@@ -104,6 +104,7 @@ A command-line task management application to deepen C++ OOP fundamentals. Clean
 #### **[Weather Station Database](https://github.com/luniphys/climate-database)** **(Python)** ⛅
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across austria. Parsing station metadata and observation records from XML API and storing/querying the processed data in a SQLite database.
