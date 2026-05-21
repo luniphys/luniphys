@@ -48,7 +48,12 @@ My main strength is approaching complex problems analytically and turning abstra
 
 ## 📚 Featured Projects (From comprehensive to concise)
 
-### 1. **[Neural Network for MNIST Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** 🧠 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/) [![Qt](https://img.shields.io/badge/PyQt-2CDE85?logo=Qt&logoColor=fff)](https://www.qt.io/)
+### 1. **[Neural Network for MNIST Digit Recognition](https://github.com/luniphys/number-neuralnetwork)** **(Python)** 🧠
+
+[![CI](https://github.com/luniphys/number-neuralnetwork/actions/workflows/ci.yml/badge.svg)](https://github.com/luniphys/number-neuralnetwork/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![Qt](https://img.shields.io/badge/PyQt-2CDE85?logo=Qt&logoColor=fff)](https://www.qt.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Building a neural network from scratch using only Python and mathematical fundamentals to classify handwritten digits. The project focuses on understanding the underlying logic of neural networks instead of relying on external ML frameworks.
 
