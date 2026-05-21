@@ -99,6 +99,9 @@ A simple worktime tracking app where employees enter their daily clock-in and cl
 
 #### **[Task Manager Application](https://github.com/luniphys/taskmanager)** **(C++)** 📋
 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A command-line task management application to deepen C++ OOP fundamentals. Clean architecture and intuitive interface demonstrate professional software development practices.
 
 #### **[Weather Station Database](https://github.com/luniphys/climate-database)** **(Python)** ⛅
@@ -110,6 +113,9 @@ A command-line task management application to deepen C++ OOP fundamentals. Clean
 Academic group project from the Digital Science minor about retrieving, processing & analyzing weather data from stations across austria. Parsing station metadata and observation records from XML API and storing/querying the processed data in a SQLite database.
 
 #### **[Device Manager](https://github.com/luniphys/device-manager)** **(C++)** 🔧
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An OOP exercise demonstrating polymorphism, downcasting, upcasting, and diamond inheritance patterns in C++. This project reflects my mastery of advanced object-oriented concepts essential for professional software development in C++.
 
