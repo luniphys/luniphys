@@ -71,6 +71,9 @@ A simulation of a double pendulum demonstrating chaotic behavior in mechanical s
 
 ### 3. **[TrackMania Medal Analyzer](https://github.com/luniphys/trackmania-medals)** **(Python)** 🏁
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A practical tool using the Nadeo API to analyze TrackMania medal progress and identify missing Gold medals across certain racing tracks. This project demonstrates API integration, automated data processing, and practical problem solving.
 
 **Key Skills:** API Integration, Data management, RESTful APIs
